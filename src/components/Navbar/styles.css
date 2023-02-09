@@ -1,0 +1,26 @@
+.nav {
+    background-color:#1890FF;
+    height: 62px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+
+.nav h1 {
+    margin-left: 40px;
+    font-size: 24px;
+    color: #fff;
+    
+}
+.nav h1:hover{
+   color: rgb(245, 233, 233);
+  
+}
+
+.link {
+    text-transform: none;
+    text-decoration: none;
+
+}
